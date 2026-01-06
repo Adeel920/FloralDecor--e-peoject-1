@@ -56,6 +56,7 @@
 .section{
     display: flex;
     gap: 20px;
+    margin-left: 10px;
 }
 
 .section2{
@@ -90,17 +91,17 @@
 
 .style{
   display: flex;
-  gap: 5px;
+  gap: 60px;
 }
 
 .card{
-  width: 350px;
-  margin-left: 5px;
+  width: 400px;
+  margin-left: 60px;
   border: 2px solid black;
 }
 
 .card img p{
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .title{
@@ -109,16 +110,16 @@
 }
 
 .card2{
-  width: 350px;
+  width: 404px;
   margin-left: 5px;
-  border-radius: 5px;
+  border-radius: 10px;
   border: 2px solid black;
 }
 
 .card2 img {
-  width: 346px;
-  height: 460px;
-  border-radius: 5px;
+  width: 400px;
+  height: 519px;
+  border-radius: 10px;
 }
 
 .title2{
@@ -128,16 +129,16 @@
 
 
 .card3{
-  width: 350px;
+  width: 414px;
   margin-left: 5px;
-  border-radius: 5px;
+  border-radius: 10px;
   border: 2px solid black;
 }
 
 .card3 img {
-  width: 346px;
-  height: 460px;
-  border-radius: 5px;
+  width: 410px;
+  height: 513px;
+  border-radius: 10px;
 }
 
 .title3{
