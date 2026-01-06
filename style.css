@@ -80,7 +80,7 @@
 .section3{
   display: flex;
   width: 320px;
-  height: 450px;
+  height: 500px;
   gap: 18px;
 }
 
@@ -117,7 +117,7 @@
 
 .card2 img {
   width: 346px;
-  height: 400px;
+  height: 460px;
   border-radius: 5px;
 }
 
@@ -136,7 +136,7 @@
 
 .card3 img {
   width: 346px;
-  height: 400px;
+  height: 460px;
   border-radius: 5px;
 }
 
