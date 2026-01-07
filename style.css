@@ -144,3 +144,31 @@
   font-size: 24px;
   font-family: 'Times New Roman', Times, serif;
 }
+
+.faq-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;               /* cards ke beech equal gap */
+  justify-content: flex-start;
+}
+
+.faq-card {
+  width: 3.5in;            
+  height: 2.8in;           
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 12px;           
+  box-sizing: border-box;
+}
+
+.faq-q {
+  font-weight: bold;
+  font-size: 22px;         
+  margin-bottom: 10px;     
+}
+
+.faq-a {
+  font-size: 18px;         
+  line-height: 1.4;        
+  margin: 0;
+}
